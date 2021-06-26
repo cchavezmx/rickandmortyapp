@@ -2,7 +2,7 @@
 
 Para esta prueba se uso la api: Rick and Morty API .
 
-![Rick and Morty API](https://rickandmortyapi.com/documentation)
+[Rick and Morty API](https://rickandmortyapi.com/documentation)
 
 ## Pila de tecnologías
 
@@ -43,7 +43,8 @@ $ npm start
 
 ## Demo
 
-The [Demo](tenical-test-cchavezmx.netlify.app)
+The [Demo](fronted-test-cchavezmx.netlify.app)
+![Demo](https://github.com/onweru/compose/blob/master/images/tn.png)
 
 > This guide covers the necessary bits. As the project evolves, the userguide will get more comprehensive
 
