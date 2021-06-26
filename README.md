@@ -43,11 +43,6 @@ $ npm start
 
 ## Demo
 
-The [Demo](https://front-test-cchavezmx.netlify.app/dashboard)
+The [Demo](https://front-test-cchavezmx.netlify.app/)
 ![Demo](https://github.com/cchavezmx/rickandmortyapp/blob/main/src/assets/media/demosnap.PNG)
 
-> This guide covers the necessary bits. As the project evolves, the userguide will get more comprehensive
-
-## License
-
-This theme is available under the [MIT license](https://github.com/onweru/compose/blob/master/LICENSE).
