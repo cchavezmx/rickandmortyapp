@@ -4,7 +4,9 @@ import routes from '../routes'
 
 
 const loading = (
-  <div>Cargando...</div>
+  <div className="lds-circle">
+    <div></div>
+  </div>
 )
 
 const AppContainer = () => {
