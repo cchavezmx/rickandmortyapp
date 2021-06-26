@@ -43,8 +43,8 @@ $ npm start
 
 ## Demo
 
-The [Demo](fronted-test-cchavezmx.netlify.app)
-![Demo](https://github.com/onweru/compose/blob/master/images/tn.png)
+The [Demo](https://front-test-cchavezmx.netlify.app/dashboard)
+![Demo](https://github.com/cchavezmx/rickandmortyapp/blob/main/src/assets/media/demosnap.PNG)
 
 > This guide covers the necessary bits. As the project evolves, the userguide will get more comprehensive
 
